@@ -1,6 +1,6 @@
 👋 Hi, I’m Pranjal Dhanotiya
 
-🌱 I’m currently learning CSS,JS
+🌱 I’m currently learning Open source, CSS,JS
 
 🔭I’m working on something cool.
 
